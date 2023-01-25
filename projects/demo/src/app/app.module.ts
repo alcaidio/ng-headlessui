@@ -1,6 +1,6 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
-import { HelloComponent } from 'projects/ngx-headless-ui/src/public-api';
+import { HelloComponent } from 'projects/ng-headlessui/src/public-api';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';

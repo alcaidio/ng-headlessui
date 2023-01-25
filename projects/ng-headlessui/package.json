@@ -1,10 +1,10 @@
 {
-  "name": "ngx-headless-ui",
+  "name": "ng-headlessui",
   "version": "0.0.1",
   "description": "Headless UI components for Angular.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/timothyalcaide/ngx-headless-ui"
+    "url": "https://github.com/timothyalcaide/ng-headlessui"
   },
   "keywords": [
     "angular",
@@ -25,9 +25,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/timothyalcaide/ngx-headless-ui/issues"
+    "url": "https://github.com/timothyalcaide/ng-headlessui/issues"
   },
-  "homepage": "https://github.com/timothyalcaide/ngx-headless-ui",
+  "homepage": "https://github.com/timothyalcaide/ng-headlessui",
   "peerDependencies": {
     "@angular/common": "^15.1.0",
     "@angular/core": "^15.1.0"
