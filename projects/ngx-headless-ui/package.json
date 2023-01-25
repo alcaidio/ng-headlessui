@@ -1,0 +1,39 @@
+{
+  "name": "ngx-headless-ui",
+  "version": "0.0.1",
+  "description": "Headless UI components for Angular.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/timothyalcaide/ngx-headless-ui"
+  },
+  "keywords": [
+    "angular",
+    "tailwind",
+    "headless-ui",
+    "menu",
+    "listbox",
+    "disclosure",
+    "dialog",
+    "popover",
+    "radio group",
+    "tabs",
+    "material"
+  ],
+  "author": {
+    "name": "Timothy Alcaide",
+    "url": "https://github.com/timothyalcaide/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/timothyalcaide/ngx-headless-ui/issues"
+  },
+  "homepage": "https://github.com/timothyalcaide/ngx-headless-ui",
+  "peerDependencies": {
+    "@angular/common": "^15.1.0",
+    "@angular/core": "^15.1.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false
+}
